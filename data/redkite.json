@@ -1,0 +1,34 @@
+[
+    {
+        "data": {
+            "price_per_token": "0.01 USDT per  FTRB",
+            "swap_amount": "14,800,000 FTRB",
+            "total_raise": "$148,000",
+            "claim_type": "Claim on Red Kite",
+            "accepted_currency": "USDT",
+            "network": "Polygon",
+            "vesting_schedule": "TBA"
+        },
+        "name": "Faith Tribe",
+        "symbol": "FTRB",
+        "url": "https://redkite.polkafoundry.com/#/buy-token/163",
+        "provider": "REDKITE",
+        "image": "https://imgur.com/5oPs1fG.png"
+    },
+    {
+        "data": {
+            "price_per_token": "0.04 BUSD per  KZEN",
+            "swap_amount": "2,475,000 KZEN",
+            "total_raise": "$99,000",
+            "claim_type": "Claim on Red Kite",
+            "accepted_currency": "BUSD",
+            "network": "Binance Smart Chain",
+            "vesting_schedule": "10% TGE, monthly release for 12 months"
+        },
+        "name": "Kaizen Finance",
+        "symbol": "KZEN",
+        "url": "https://redkite.polkafoundry.com/#/buy-token/151",
+        "provider": "REDKITE",
+        "image": "https://imgur.com/lZgcGuR.png"
+    }
+]

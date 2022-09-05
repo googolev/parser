@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "firebase-admin": "^10.0.2",
+    "phantom": "^6.3.0",
+    "pretty": "^2.0.0",
+    "puppeteer": "^13.2.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "random-useragent": "^0.5.0",
+    "user-agents": "^1.0.924",
+    "x-ray": "^2.3.4",
+    "x-ray-phantom": "^1.0.1"
+  }
+}

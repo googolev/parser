@@ -1,0 +1,38 @@
+[
+    {
+        "data": {
+            "token_distribution": "Date    UTC",
+            "min_allocation": "0.01 BUSD",
+            "max_allocation": "TBA",
+            "token_price": "TBA",
+            "access_type": "Private",
+            "name": "SharkRace Club",
+            "decimals": "18",
+            "address": "TBA",
+            "total_supply": "0"
+        },
+        "name": "SharkRace Club",
+        "url": "https://launchpad.seedify.fund/pool_detail/upcoming/61f76d07ce709c0bb92676bc",
+        "provider": "SEEDIFY",
+        "image": "https://idologo.s3.ap-southeast-1.amazonaws.com/1643605254724photo_2022-01-31_10-08-01.jpg",
+        "symbol": "SHRK"
+    },
+    {
+        "data": {
+            "token_distribution": "Date    UTC",
+            "min_allocation": "TBA",
+            "max_allocation": "TBA",
+            "token_price": "TBA",
+            "access_type": "Public",
+            "name": "Animalia",
+            "decimals": "18",
+            "address": "TBA",
+            "total_supply": "0"
+        },
+        "name": "Animalia",
+        "url": "https://launchpad.seedify.fund/pool_detail/upcoming/61c94e709594c06aef1bc771",
+        "provider": "SEEDIFY",
+        "image": "https://idologo.s3.ap-southeast-1.amazonaws.com/1640582768386photo1640558295.jpeg",
+        "symbol": "ANIM"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "data": {
+            "access_type": "Whitelist winners",
+            "token_distribution": "10% TGE, then 2% a week for 45 weeks",
+            "price": "$0.004",
+            "tge_market_cap": "$1.08M",
+            "fully_market_cap": "$40M",
+            "total_supply": "10,000,000,000"
+        },
+        "name": "Voltage Finance (FuseFi)",
+        "url": "https://www.poolz.finance/detail/about?id=111",
+        "provider": "POOLZ",
+        "symbol": "VOLT",
+        "image": "https://admin.poolz.finance/uploads/thumbnail_logo_and_name_and_Powered_by_fuse_d04b602fc3.png "
+    }
+]

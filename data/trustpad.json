@@ -1,0 +1,393 @@
+[
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$500 000",
+            "swap_rate": "1 EB = $0.2 | 5 EB per 1 BUSD",
+            "start/end": "23 Feb, 11:00 am –16:00 pm UTC",
+            "registration": "Feb 21, 11:00 UTC –Feb 23, 08:00 UTC",
+            "fcfs_opens": "Feb 23, 15:40 UTC UTC (20m before the end)",
+            "base_allocation": "1x = $68.19 (approx)",
+            "token": "Endless Battlefield (EB)",
+            "type": "BEP-20",
+            "total_supply": "1 000 000 000 EB",
+            "initial_supply": "16 245 000 EB, market cap $3 249 000",
+            "token_listing": "Feb 25, 2022 16:00 UTC ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "TGE 25%, remaining vesting monthly for 4 months"
+        },
+        "name": "Endless Battlefield",
+        "symbol": "EB",
+        "url": "https://trustpad.io/pool/endlessbattlefield",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/endlessbattlefield.6a25f4e6.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 019",
+            "swap_rate": "1 METAN = $0.15 | 6.666 METAN per 1 BUSD",
+            "start/end": "25 Feb, 14:00 pm –19:00 pm UTC",
+            "registration": "Feb 23, 14:00 UTC –Feb 25, 11:00 UTC",
+            "token": "Metan Evolution (METAN)",
+            "type": "BEP-20",
+            "total_supply": "100 000 000 METAN",
+            "initial_supply": "2 600 000 METAN, market cap $390 039",
+            "token_listing": "Feb 28, 2022 11:00 UTC ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "20% at TGE, then release 20% on monthly basis"
+        },
+        "name": "Metan Evolution",
+        "symbol": "METAN",
+        "url": "https://trustpad.io/pool/metan",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/metan.8641f781.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$300 014",
+            "swap_rate": "1 MECHA = $0.7 | 1.4285 MECHA per 1 BUSD",
+            "start/end": "28 Feb, 11:00 am –16:00 pm UTC",
+            "registration": "Feb 26, 11:00 UTC –Feb 28, 08:00 UTC",
+            "token": "MechaChain (MECHA)",
+            "type": "Polygon",
+            "total_supply": "100 000 000 MECHA",
+            "initial_supply": "3 945 715 MECHA, market cap $2 762 138",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "20% on TGE, then 20% per month"
+        },
+        "name": "MechaChain",
+        "symbol": "MECHA",
+        "url": "https://trustpad.io/pool/mechachain",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/mechachain.543ff53c.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 000",
+            "swap_rate": "1 NEST = $0.01 | 100 NEST per 1 BUSD",
+            "start/end": "6 Mar, 11:00 am –16:00 pm UTC",
+            "registration": "Mar 4, 11:00 UTC –Mar 6, 08:00 UTC",
+            "token": "Nest Arcade (NEST)",
+            "type": "SOL",
+            "total_supply": "1 000 000 000 NEST",
+            "initial_supply": "36 700 000 NEST, market cap $367 000",
+            "token_listing": "TBA By the beginning of February",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "20% at TGE and the rest linearly over 4 months"
+        },
+        "name": "Nest Arcade",
+        "symbol": "NEST",
+        "url": "https://trustpad.io/pool/nestarcade",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/nestarcade.533035d4.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$500 000",
+            "swap_rate": "1 ANML = $0.0045 | 222.22 ANML per 1 BUSD",
+            "start/end": "7 Mar, 11:00 am –16:00 pm UTC",
+            "registration": "Mar 5, 11:00 UTC –Mar 7, 08:00 UTC",
+            "token": "Animal Concerts (ANML)",
+            "type": "Polygon",
+            "total_supply": "12 500 000 000 ANML",
+            "initial_supply": "250 000 000 ANML, market cap $1 125 001",
+            "token_listing": "Mar 10, 2022 11:00 UTC ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "25% on TGE, then 25% every 2 months over 6 months"
+        },
+        "name": "Animal Concerts",
+        "symbol": "ANML",
+        "url": "https://trustpad.io/pool/animalconcerts",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/animalconcerts.241221c7.png"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 005",
+            "swap_rate": "1 ZEUM = $0.075 | 13.333 ZEUM per 1 BUSD",
+            "start/end": "8 Mar, 11:00 am –16:00 pm UTC",
+            "registration": "Mar 6, 11:00 UTC –Mar 8, 08:00 UTC",
+            "token": "Colizeum (ZEUM)",
+            "type": "BEP-20",
+            "total_supply": "1 000 000 000 ZEUM",
+            "initial_supply": "51 670 000 ZEUM, market cap $3 875 346",
+            "token_listing": "Mar 13, 2022 11:00 UTC ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "25% initial unlock, 3 months cliff, 3 months vesting"
+        },
+        "name": "Colizeum",
+        "symbol": "ZEUM",
+        "url": "https://trustpad.io/pool/colizeum",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/colizeum.c38ebb98.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$50 000",
+            "swap_rate": "1 METAL = $0.01 | 100 METAL per 1 BUSD",
+            "start/end": "10 Mar, 11:00 am –16:00 pm UTC",
+            "registration": "Mar 8, 11:00 UTC –Mar 10, 08:00 UTC",
+            "token": "Drunk Robots (METAL)",
+            "type": "BEP-20",
+            "total_supply": "2 750 000 000 METAL",
+            "token_listing": "Mar 11, 2022 11:00 UTC Will be listed on Gate and PancakeSwap",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "10% at TGE, then 15% per month"
+        },
+        "name": "Drunk Robots",
+        "symbol": "METAL",
+        "url": "https://trustpad.io/pool/drunkrobots",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/drunkrobots.95319ece.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$150 004",
+            "swap_rate": "1 FPAD = $0.19 | 5.2629 FPAD per 1 BUSD",
+            "start/end": "13 Mar, 11:00 am –16:00 pm UTC",
+            "registration": "Mar 11, 11:00 UTC –Mar 13, 08:00 UTC",
+            "token": "FantomPad (FPAD)",
+            "type": "BEP-20",
+            "total_supply": "100 000 000 FPAD",
+            "initial_supply": "2 400 000 FPAD, market cap $456 013",
+            "token_listing": "Mar 15, 2022 11:00 UTC ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "20% at TGE, then 20% per month for 4 months"
+        },
+        "name": "FantomPad",
+        "symbol": "FPAD",
+        "url": "https://trustpad.io/pool/fantompad",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/fantompad.6f0d4ae0.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$150 000",
+            "swap_rate": "1 DKM = $0.032 | 31.25 DKM per 1 BUSD",
+            "start/end": "15 Mar, 11:00 am –16:00 pm UTC",
+            "registration": "Mar 13, 11:00 UTC –Mar 15, 08:00 UTC",
+            "token": "Dead Knight (DKM)",
+            "type": "SOL",
+            "total_supply": "500 000 000 DKM",
+            "initial_supply": "12 750 000 DKM, market cap $408 000",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "15% to be released on TGE, then 10% every month, last month 5%"
+        },
+        "name": "Dead Knight",
+        "symbol": "DKM",
+        "url": "https://trustpad.io/pool/deadknight",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/deadknight.1951af75.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 000",
+            "swap_rate": "1 MIT = $1 | 1 MIT per 1 BUSD",
+            "start/end": "22 Mar, 11:00 am –16:00 pm UTC",
+            "registration": "Mar 20, 11:00 UTC –Mar 22, 08:00 UTC",
+            "token": "Galaxy Blitz (MIT)",
+            "type": "BEP-20",
+            "total_supply": "100 000 000 MIT",
+            "initial_supply": "250 000 MIT, market cap $250 000",
+            "token_listing": "Mar 23, 2022 14:00 UTC ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "25% at TGE, then 25% per month"
+        },
+        "name": "Galaxy Blitz",
+        "symbol": "MIT",
+        "url": "https://trustpad.io/pool/galaxyblitz",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/galaxyblitz.66380857.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$100 011",
+            "swap_rate": "1 ANIM = $0.14 | 7.142 ANIM per 1 BUSD",
+            "start": "TBA",
+            "token": "Animalia (ANIM)",
+            "type": "BEP-20",
+            "total_supply": "87 000 000 ANIM",
+            "initial_supply": "3 480 000 ANIM, market cap $487 258",
+            "token_listing": "TBA 28th Jan 2022",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "20% TGE , then daily linear vest for 6 months"
+        },
+        "name": "Animalia",
+        "symbol": "ANIM",
+        "url": "https://trustpad.io/pool/animaliaIdo",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/animalialogo.600f849a.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 000",
+            "swap_rate": "1 GTP = $0.2 | 5 GTP per 1 BUSD",
+            "start": "TBA",
+            "token": "GT Protocol (GTP)",
+            "type": "BEP-20",
+            "total_supply": "100 000 000 GTP",
+            "initial_supply": "1 020 000 GTP, market cap $204 000",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "10% TGE unlock, 90% linear block-by-block unlock for 5 months"
+        },
+        "name": "GT Protocol",
+        "symbol": "GTP",
+        "url": "https://trustpad.io/pool/gtprotocol",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/gtprotocol.d2c6ec20.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 000",
+            "swap_rate": "1 PCORE = $0.00075 | 1 333.33 PCORE per 1 BUSD",
+            "start": "TBA",
+            "token": "MetaClash (PCORE)",
+            "type": "Polygon",
+            "total_supply": "100 000 000 000 PCORE",
+            "initial_supply": "1 708 000 000 PCORE, market cap $1 281 000",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "10% at TGE, then 15% per month"
+        },
+        "name": "MetaClash",
+        "symbol": "PCORE",
+        "url": "https://trustpad.io/pool/metaclash",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/metaclash.68e7eb0d.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$150 000",
+            "swap_rate": "1 MZR = $0.0015 | 666.66 MZR per 1 BUSD",
+            "start": "TBA",
+            "token": "Mizar (MZR)",
+            "type": "BEP-20",
+            "total_supply": "10 000 000 000 MZR",
+            "initial_supply": "397 857 143 MZR, market cap $596 786",
+            "token_listing": "TBA Immediately after IDO",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "25% unlocked, 6 months vesting day by day"
+        },
+        "name": "Mizar",
+        "symbol": "MZR",
+        "url": "https://trustpad.io/pool/mizar",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/mizar.a7ededdb.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$250 005",
+            "swap_rate": "1 OKLP = $0.0337 | 29.629 OKLP per 1 BUSD",
+            "start": "TBA",
+            "token": "OkLetsPlay (OKLP)",
+            "type": "Polygon",
+            "total_supply": "999 999 999 OKLP",
+            "initial_supply": "20 648 148.12 OKLP, market cap $696 889",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "20% linear over 5 months"
+        },
+        "name": "OkLetsPlay",
+        "symbol": "OKLP",
+        "url": "https://trustpad.io/pool/okletsplay",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/okayletsplay.07e0d756.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$350 003",
+            "swap_rate": "1 RIOX = $0.03 | 33.3329 RIOX per 1 BUSD",
+            "start": "TBA",
+            "token": "RIO-X (RIOX)",
+            "type": "Polygon",
+            "total_supply": "1 000 000 000 RIOX",
+            "initial_supply": "13 000 000 RIOX, market cap $390 003",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "15% at TGE, 5% over 3 months, then 10% over 7 months"
+        },
+        "name": "RIO-X",
+        "symbol": "RIOX",
+        "url": "https://trustpad.io/pool/riox",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/riox.3ba854c6.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 000",
+            "swap_rate": "1 SGK = $0.08 | 12.5 SGK per 1 BUSD",
+            "start": "TBA",
+            "token": "Skill Guilds (SGK)",
+            "type": "Polygon",
+            "total_supply": "420 000 000 SGK",
+            "initial_supply": "4 250 000 SGK, market cap $340 000",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "TBA"
+        },
+        "name": "Skill Guilds",
+        "symbol": "SGK",
+        "url": "https://trustpad.io/pool/skillguilds",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/skillguilds.e1e47c4e.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$300 000",
+            "swap_rate": "1 KISS = $0.25 | 4 KISS per 1 BUSD",
+            "start": "TBA",
+            "token": "UKISS (KISS)",
+            "type": "BEP-20",
+            "total_supply": "100 000 000 KISS",
+            "initial_supply": "6 973 047 KISS, market cap $1 743 261",
+            "token_listing": "TBA ",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "100% is released at TGE"
+        },
+        "name": "UKISS",
+        "symbol": "KISS",
+        "url": "https://trustpad.io/pool/ukiss",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/ukiss.498a3eed.jpg"
+    },
+    {
+        "data": {
+            "access_type": "Levels",
+            "hard_cap": "$200 007",
+            "swap_rate": "1 WZRD = $0.12 | 8.333 WZRD per 1 BUSD",
+            "start": "TBA",
+            "token": "Wizardia (WZRD)",
+            "type": "SOL",
+            "total_supply": "300 000 000 WZRD",
+            "initial_supply": "8 940 000 WZRD, market cap $1 072 842",
+            "token_listing": "TBA TBA",
+            "distribution": "Claimed on TrustPad",
+            "vesting": "20% at TGE month, 5 months vesting"
+        },
+        "name": "Wizardia",
+        "symbol": "WZRD",
+        "url": "https://trustpad.io/pool/wizardia",
+        "provider": "TRUSTPAD",
+        "image": "https://trustpad.io//_next/static/media/wizardia.127e2d3f.png"
+    }
+]

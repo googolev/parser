@@ -1,0 +1,73 @@
+[
+    {
+        "data": {
+            "sale_price": "1 ARKN = $0.05",
+            "sale_start_time_(utc)": "February 22nd 2022, 1:00 PM UTC",
+            "sale_end_time_(utc)": "February 22nd 2022, 3:00 PM UTC",
+            "token_distribution_(utc)": "February 22nd 2022, 3:00 PM UTC",
+            "initial_market_cap": "TBA",
+            "initial_token_circulation": "TBA"
+        },
+        "name": "Ark Rivals",
+        "symbol": "ARKN",
+        "url": "https://polkastarter.com/projects/ark-rivals",
+        "provider": "POLKASTARTER",
+        "image": "https://storage.googleapis.com/polkastarter-production-assets/hxvbwz537vrre4v09udwif2ygxmo"
+    },
+    {
+        "data": {
+            "sale_price": "1 TAUM = $0.035",
+            "sale_start_time_(utc)": "February 23rd 2022, 1:00 PM UTC",
+            "sale_end_time_(utc)": "February 23rd 2022, 3:00 PM UTC",
+            "token_distribution_(utc)": "February 23rd 2022, 3:00 PM UTC",
+            "initial_market_cap": "TBA",
+            "initial_token_circulation": "TBA"
+        },
+        "name": "Orbitau",
+        "symbol": "TAUM",
+        "url": "https://polkastarter.com/projects/orbitau",
+        "provider": "POLKASTARTER",
+        "image": "https://storage.googleapis.com/polkastarter-production-assets/1pxylpsiokyszbbfy3eowrmynqz3"
+    },
+    {
+        "data": {
+            "sale_price": " \n\n\n",
+            "sale_start_time_(utc)": " \n\n\n",
+            "sale_end_time_(utc)": " \n\n\n",
+            "token_distribution_(utc)": " \n\n\n",
+            "initial_market_cap": " \n\n\n",
+            "initial_token_circulation": " \n\n\n"
+        },
+        "name": "Mecha Morphing",
+        "symbol": "MAPE",
+        "url": "https://polkastarter.com/projects/mecha-morphing",
+        "provider": "POLKASTARTER",
+        "image": "https://storage.googleapis.com/polkastarter-production-assets/hlnf988mu9e12xf89ros1fgi7xaf"
+    },
+    {
+        "data": {
+            "sale_start_time_(utc)": "TBA",
+            "sale_end_time_(utc)": "TBA"
+        },
+        "name": "Cryptoverse",
+        "symbol": " ",
+        "url": "https://polkastarter.com/projects/cryptoverse",
+        "provider": "POLKASTARTER",
+        "image": "https://storage.googleapis.com/polkastarter-production-assets/0j5z3enclmzrrvpdji7r89jdagb3"
+    },
+    {
+        "data": {
+            "sale_price": "TBA",
+            "sale_start_time_(utc)": "TBA",
+            "sale_end_time_(utc)": "TBA",
+            "token_distribution_(utc)": "TBA",
+            "initial_market_cap": "TBA",
+            "initial_token_circulation": "TBA"
+        },
+        "name": "CyberTrade",
+        "symbol": "CCASH",
+        "url": "https://polkastarter.com/projects/cybertrade",
+        "provider": "POLKASTARTER",
+        "image": "https://storage.googleapis.com/polkastarter-production-assets/cckbewq5f5uy0yjjgjh2hdgvcco2"
+    }
+]

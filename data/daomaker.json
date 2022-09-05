@@ -1,0 +1,79 @@
+[
+    {
+        "data": {
+            "blockchain_network": "BSC",
+            "token_supply": "50,000,000,000",
+            "project_valuation": "$15,000,000",
+            "initial_token_circulation": "2,380,000,000",
+            "initial_market_cap": "$714,000",
+            "platform_raise": "$195,000 + $5,000 Gleam Round",
+            "individual_allocation": "$200"
+        },
+        "symbol": "GMM",
+        "url": "https://daomaker.com/company/Gamium",
+        "name": "Gamium",
+        "provider": "DAOMAKER",
+        "image": "https://storage.googleapis.com/dao-pad-production.appspot.com/1ada88c97ae921032bd4f2d54458fe8f_photo.png"
+    },
+    {
+        "data": {
+            "platform_raise": "$5,000,000",
+            "individual_allocation": "$1,500"
+        },
+        "symbol": "PORTX",
+        "url": "https://daomaker.com/company/ChainPort",
+        "name": "ChainPort",
+        "provider": "DAOMAKER",
+        "image": "https://storage.googleapis.com/dao-pad-production.appspot.com/ce7f4dc6999deea5f6cd75c2cf802655_photo.png"
+    },
+    {
+        "data": {
+            "blockchain_network": "Ethereum",
+            "token_supply": "127,000,001",
+            "project_valuation": "$10,160,000",
+            "initial_token_circulation": "12,446,000",
+            "initial_market_cap": "$995,680",
+            "dao_round": "$100,000",
+            "public_sho": "$150,000",
+            "individual_allocation": "TBD"
+        },
+        "symbol": "CTOK",
+        "url": "https://daomaker.com/company/Codyfight",
+        "name": "Codyfight",
+        "provider": "DAOMAKER",
+        "image": "https://storage.googleapis.com/dao-pad-production.appspot.com/0d4c410ba258b3e8606629df3daa5b93_photo.png"
+    },
+    {
+        "data": {
+            "blockchain_network": "Ethereum and BSC",
+            "token_supply": "100,000,000",
+            "project_valuation": "$25,000,000",
+            "initial_token_circulation": "7,045,600",
+            "initial_market_cap": "$1,761,400",
+            "public_sho": "$100,000",
+            "dao_round": "$100,000",
+            "individual_allocation": "TBD"
+        },
+        "symbol": "OMNIA",
+        "url": "https://daomaker.com/company/Omnia",
+        "name": "Omnia",
+        "provider": "DAOMAKER",
+        "image": "https://storage.googleapis.com/dao-pad-production.appspot.com/33c5bb2feda3f935221ee09e1e40fa00_photo.png"
+    },
+    {
+        "data": {
+            "blockchain_network": "Ethereum",
+            "token_supply": "800,000,000",
+            "project_valuation": "$30,000,000",
+            "initial_token_circulation": "52,160,000",
+            "initial_market_cap": "$1,965,000",
+            "sho_raise": "$300,000",
+            "individual_allocation": "TBD"
+        },
+        "symbol": "TMS",
+        "url": "https://daomaker.com/company/Themis",
+        "name": "Themis",
+        "provider": "DAOMAKER",
+        "image": "https://storage.googleapis.com/dao-pad-production.appspot.com/edcfb8d7b3a7003ad9047b00ddea84b8_photo.png"
+    }
+]
